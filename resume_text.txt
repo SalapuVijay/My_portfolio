@@ -1,0 +1,50 @@
+Salapu Lakshmi Venkata Vijay 
+LinkedIn: https://www.linkedin.com/in/slvvijay03/ Email: salapuvijay.visit2006@gmail.com 
+Github: https://github.com/SalapuVijay   Mobile: +91 7093830560 
+SKILLS 
+Languages:                                C++, Python, C 
+Tools/Platforms:                                GitHub, Excel, VS Code, MS SQL Server, Power BI  
+Web Development:                                   HTML, CSS, JavaScript, Django, React, Tailwind CSS 
+Data Science & Machine Learning: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
+Soft Skills:                                Problem Solving, Communication, Team Collaboration, Time Management  
+PROJECTS 
+University Management System | Python, Django, HTML, CSS, SQLite | [Github]                                                 Feb’ 26 
+• Developed a role-based University Management System using Django and SQLite , enabling management  
+of courses, attendance, CGPA, timetable, and messaging for students and faculty.  
+• Modeled relational database models using Django ORM and customized the authentication system for  
+students and teacher roles. 
+• Delivered an interactive dashboard for academic data visualization improving accessibility of student records.  
+Aspiro - AI Driven Student Guide | Tailwind CSS, Full-stack Web Development | [Github] Oct’ 25 
+• Built a full-stack web application for placement preparation, interview practice, and skill development.  
+• Implemented secure authentication, progress tracking, and real-time content management. 
+• Integrated an AI chatbot to deliver personalized guidance and improve user engagement.  
+  AI Real Estate Chatbot – Realty Whisper | React, Next.js, Node.js, Tailwind CSS | [Github]  Mar’ 25 
+• Created an AI-driven real estate chatbot that delivers instant land price predictions, location insights, 
+and user-friendly guidance for multiple regions. 
+• Designed a responsive user interface using React and Tailwind CSS with authentication and real-time data 
+management.   
+• Strengthened backend services with Node.js to handle location-based queries and conversational responses. 
+TRAINING 
+Lovely Professional University (LPU) Aug’ 25 
+From Data to Decisions: A Hands-On Approach to Data Science | Python, Machine Learning | [Github] 
+• Designed a rainfall prediction model using Python, applying data cleaning, EDA, and statistical techniques on 
+weather datasets (temperature, humidity, wind speed, precipitation, etc.).  
+• Implemented machine learning algorithms to predict rainfall likelihood and visualized trends using Matplotlib, 
+Seaborn, and Pandas. 
+• Built an interactive dashboard to display predictions, correlations, and seasonal weather patterns for 
+ user-friendly insights. 
+CERTIFICATES AND CERTIFICATIONS 
+• Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | [Oracle]                                                        Mar’ 26 
+• Privacy and Security in Online Social Media |  [NPTEL]                                                                                        Oct’ 25 
+• Oracle Data Platform 2025 Foundations Associate |  [Oracle]                                                                                        Oct’ 25                                               
+• IELTS Pro | [Udemy]                                                                                                                                                    Oct’ 24                                                                                                           
+EDUCATION 
+Lovely Professional University  Phagwara, Punjab 
+Bachelor of Technology Aug’ 23 – Present 
+Computer Science and Engineering; CGPA: 7.20 
+Sri Chaitanya College  Kurmanapalem, Andhra Pradesh 
+Intermediate Mar’ 21 – Apr 2023 
+Percentage: 86% 
+Sri Chaitanya Techno School Anakapalle, Andhra Pradesh 
+Matriculation  Apr’ 20 – Mar 2021 
+Percentage: 100% 

@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #aa3bff;
+  --color-primary-light: rgba(170, 59, 255, 0.1);
+  --color-base: #ffffff;
+  --color-base-dark: #f8fafc;
+  --color-text: #334155;
+  --color-text-dark: #0f172a;
+}
+
+@layer base {
+  :root {
+    --bg-base: #ffffff;
+    --text-base: #334155;
+    --text-heading: #0f172a;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--bg-base);
+    color: var(--text-base);
+    font-family: 'Inter', 'Poppins', sans-serif;
+    overflow-x: hidden;
+  }
+}
