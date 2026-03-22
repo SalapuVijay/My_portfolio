@@ -69,7 +69,7 @@ const Hero = () => {
                         <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
                     </a>
 
-                    <a href="/resume.pdf" target="_blank" rel="noreferrer" className="group px-8 py-3.5 bg-white dark:bg-[#0a0a0a] text-gray-800 dark:text-gray-200 border border-gray-200 dark:border-white/10 font-medium rounded-full shadow-sm hover:shadow-md hover:border-blue-200 dark:hover:border-white/20 hover:-translate-y-1 transition-all duration-300 flex items-center justify-center gap-2">
+                    <a href="resume.pdf" download="Salapu_Vijay_Resume.pdf" target="_blank" rel="noreferrer" className="group px-8 py-3.5 bg-white dark:bg-[#0a0a0a] text-gray-800 dark:text-gray-200 border border-gray-200 dark:border-white/10 font-medium rounded-full shadow-sm hover:shadow-md hover:border-blue-200 dark:hover:border-white/20 hover:-translate-y-1 transition-all duration-300 flex items-center justify-center gap-2">
                         Download Resume
                         <Download size={18} className="group-hover:text-blue-500 transition-colors" />
                     </a>
