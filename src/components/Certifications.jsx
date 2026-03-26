@@ -11,7 +11,7 @@ const certData = [
         title: "Oracle Cloud Infrastructure 2025 AI Foundations",
         issuer: "Oracle",
         date: "Mar 2026",
-        link: "#",
+        link: oracleAiImg,
         imageId: null,
         imageSrc: oracleAiImg
     },
@@ -19,7 +19,7 @@ const certData = [
         title: "Privacy and Security in Online Social Media",
         issuer: "NPTEL",
         date: "Oct 2025",
-        link: "#",
+        link: nptelImg,
         imageId: null,
         imageSrc: nptelImg
     },
@@ -27,7 +27,7 @@ const certData = [
         title: "Oracle Data Platform 2025 Foundations",
         issuer: "Oracle",
         date: "Oct 2025",
-        link: "#",
+        link: oracleDataImg,
         imageId: null,
         imageSrc: oracleDataImg
     },
@@ -35,7 +35,7 @@ const certData = [
         title: "IELTS Pro",
         issuer: "Udemy",
         date: "Oct 2024",
-        link: "#",
+        link: ieltsImg,
         imageId: null,
         imageSrc: ieltsImg
     },
