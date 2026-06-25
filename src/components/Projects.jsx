@@ -8,24 +8,69 @@ import project3Img from "../assets/projects/project_3.png";
 
 const projectsData = [
     {
-        title: "University Management System",
-        description: "Built a role-based system enabling management of courses, attendance, CGPA, and messaging for students and faculty. Delivered an interactive dashboard for academic data visualization.",
-        image: project1Img,
-        tech: ["Python", "Django", "HTML", "CSS", "SQLite"],
-        github: "https://github.com/SalapuVijay"
+        title: "MarketMind AI - Swarm Financial Research Terminal",
+        description: "A full-stack, Multi-Agent Autonomous Investment & Trend Research platform. Powered by parallel LangGraph pipelines, the platform allows analysts to evaluate equities, stream real-time logs, chart technical indicators, and chat with historical briefs via semantic RAG search.",
+        image: project3Img,
+        tech: ["Next.js", "TypeScript", "FastAPI", "Python", "LangGraph", "MongoDB", "Tailwind CSS", "Recharts"],
+        github: "https://github.com/SalapuVijay/marketmind-ai",
+        live: "https://marketmind-ai-one.vercel.app"
     },
     {
-        title: "Aspiro - AI Driven Student Guide",
-        description: "A full-stack web application for placement preparation, interview practice, and skill development, integrating an AI chatbot to deliver personalized guidance.",
-        image: project2Img,
-        tech: ["Tailwind CSS", "JavaScript", "HTML", "CSS"],
-        github: "https://github.com/SalapuVijay"
+        title: "APEX Terminal - Autonomous Investment Workstation",
+        description: "An institutional-grade financial research workstation running on parallel LangGraph.js pipelines. Simulates an AI Hedge Fund Committee debate to evaluate equities, stream real-time Server-Sent Events logs, render interactive SVG canvases, and export PDF research briefs.",
+        image: project3Img,
+        tech: ["Next.js 15", "TypeScript", "React 19", "LangGraph.js", "Gemini 2.5 Pro", "MongoDB", "jsPDF", "Tailwind CSS"],
+        github: "https://github.com/SalapuVijay/apex-terminal",
+        live: "https://apex-terminal-ten.vercel.app"
     },
     {
         title: "Realty Whisper - AI Real Estate Chatbot",
         description: "An AI-driven real estate chatbot delivering user-friendly guidance for multiple regions, location insights, and land price predictions.",
         image: project3Img,
         tech: ["React", "Next.js", "Node.js", "Tailwind CSS"],
+        github: "https://github.com/SalapuVijay/realtywhisper-market-insights"
+    },
+    {
+        title: "AI-Powered Autocorrect Tool",
+        description: "An advanced, context-aware Spelling and Grammar Correction System merging dictionary-based heuristics (TextBlob) with deep learning transformers (DistilBERT). Features a premium glassmorphic dashboard, visual diff comparison tables, and real-time processing analytics.",
+        image: project2Img,
+        tech: ["Python", "Flask", "DistilBERT", "TextBlob", "NLTK", "HTML", "CSS", "JavaScript"],
+        github: "https://github.com/SalapuVijay/Autocorrect_Ai",
+        live: "https://autocorrect-ai-5ez8.onrender.com"
+    },
+    {
+        title: "University Management System",
+        description: "Built a role-based system enabling management of courses, attendance, CGPA, and messaging for students and faculty. Delivered an interactive dashboard for academic data visualization.",
+        image: project1Img,
+        tech: ["Python", "Django", "HTML", "CSS", "SQLite"],
+        github: "https://github.com/SalapuVijay/djngo_ums"
+    },
+    {
+        title: "Rainfall Prediction System",
+        description: "A meteorological machine learning model predicting rainfall occurrence with 98% accuracy using a Decision Tree Classifier. Features a real-time Flask web interface and an interactive Power BI dashboard for regional weather pattern analysis.",
+        image: project1Img,
+        tech: ["Python", "Flask", "scikit-learn", "Power BI", "Pandas", "HTML", "CSS"],
+        github: "https://github.com/SalapuVijay/weather-prediction"
+    },
+    {
+        title: "Air Quality Analysis",
+        description: "A data science project investigating historical pollution patterns, seasonal AQI distributions, and correlation maps using custom data analytics, visualization, and time-series modeling pipelines.",
+        image: project1Img,
+        tech: ["Python", "Jupyter Notebook", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+        github: "https://github.com/SalapuVijay/Air-Quality-Analysis"
+    },
+    {
+        title: "CarSold PowerBI Dashboard",
+        description: "A business intelligence reporting system for automotive sales tracking, regional market trends, revenue growth projections, and dealer commission metrics.",
+        image: project2Img,
+        tech: ["Power BI", "Excel", "DAX"],
+        github: "https://github.com/SalapuVijay/CarSold_Powerbi-Project"
+    },
+    {
+        title: "Aspiro - AI Driven Student Guide",
+        description: "A full-stack web application for placement preparation, interview practice, and skill development, integrating an AI chatbot to deliver personalized guidance.",
+        image: project2Img,
+        tech: ["Tailwind CSS", "JavaScript", "HTML", "CSS"],
         github: "https://github.com/SalapuVijay"
     }
 ];

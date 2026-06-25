@@ -5,22 +5,22 @@ const skillsData = [
     {
         category: "Languages",
         gradient: "from-blue-500/20 to-cyan-500/20",
-        skills: ["Python", "Java", "C++", "C"]
+        skills: ["Python", "TypeScript", "JavaScript", "C++", "C", "Java", "SQL"]
     },
     {
-        category: "Web Development",
+        category: "Web Development & Databases",
         gradient: "from-blue-500/20 to-cyan-500/20",
-        skills: ["HTML", "CSS", "JavaScript", "Django", "React", "Tailwind CSS"]
+        skills: ["HTML5", "CSS3", "React", "Next.js", "FastAPI", "Django", "Node.js", "Tailwind CSS", "MongoDB", "SQLite", "MySQL"]
     },
     {
-        category: "Data Science & ML",
+        category: "AI, Machine Learning & NLP",
         gradient: "from-blue-500/20 to-cyan-500/20",
-        skills: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
+        skills: ["LangGraph", "Google Gemini", "Hugging Face", "BERT", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "NLTK", "TextBlob", "FAISS / RAG"]
     },
     {
-        category: "Tools & Platforms",
+        category: "Tools & Technologies",
         gradient: "from-blue-500/20 to-cyan-500/20",
-        skills: ["GitHub", "SQL Server", "Power BI", "Excel", "VS Code"]
+        skills: ["Git & GitHub", "Power BI", "Microsoft Excel", "VS Code", "Jupyter Notebook", "Streamlit", "Docker", "Vercel", "Render", "Lovable"]
     }
 ];
 
